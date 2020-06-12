@@ -6,3 +6,6 @@ The success rates comes from information available on Internet.
 
 Try it:
 http://zeusafk.net/awakening/
+
+This is how it looks like:
+![Image of simulator](https://i.imgur.com/FvNotIu.png)
